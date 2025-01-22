@@ -1,4 +1,8 @@
-# pyFreeFem
+# pyFreeFem fork
+
+This is my fork of pyFreeFem, a Python wrapper for the finite-element software [FreeFem++](https://freefem.org/) working only in 2D. This fork is adapted for integration with [ZeroHeliumKit](https://github.com/eeroqlab/zeroheliumkit).
+
+# Original pyFreeFem Readme
 
 pyFreeFem is a simple Python wrapper for the finite-element software [FreeFem++](https://freefem.org/). It helps [importing and exporting](./documentation/IO.md) meshes, finite-element matrices and vectors to and from FreeFem++. This library can only handle two-dimensional finite-element spaces.
 
